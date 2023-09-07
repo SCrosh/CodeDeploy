@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2976E2E0-9DCF-4ED1-A0ED-94B002A0E85C}|WebApp_OpenIDConnect_DotNet">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Placeholder.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp-OpenIDConnect-DotNet" expanded="True">
+            <Node name="WebApp-OpenIDConnect-DotNet" expanded="True">
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApp-OpenIDConnect-DotNet PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
